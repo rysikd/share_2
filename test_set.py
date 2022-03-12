@@ -1,0 +1,1 @@
+print("ok_share_2")
